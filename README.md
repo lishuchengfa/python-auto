@@ -1,3 +1,3 @@
 # pythonTest
-#coding-utf-8
 My function
+Please use utf-8 encoding
